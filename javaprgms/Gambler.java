@@ -1,4 +1,4 @@
-package javaprgms;
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              package javaprgms;
 
 import bridgelabz.utility.utility;
 
@@ -29,7 +29,7 @@ public static void main(String[] args)
 	    	
 	    		cash--;
 	    	}
-	    	if(cash==goal)
+	    	if(cash>=goal)
 	    	
 	    		wins++;
 	    	}
